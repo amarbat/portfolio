@@ -1,0 +1,17 @@
+div.About div.even-content {
+  background-color: #e8e8e8;
+}
+
+div.even-content div {
+  width: 80%;
+  margin: auto;
+}
+
+div.left-align {
+  text-align: left;
+}
+
+div.educationAboutAmar section, div.workHistoryAboutAmar section {
+  padding: 10px;
+}
+

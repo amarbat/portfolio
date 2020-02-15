@@ -1,0 +1,12 @@
+div.SkillsLibrary {
+  margin: 0 auto;
+  width: 80%;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;
+}
+
+div.SkillsLibrary img{
+  padding: 0 50px;
+}
