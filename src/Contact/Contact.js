@@ -29,7 +29,9 @@ class Contact extends Component {
             </a>
           </div>
           <div>
-            <img src={GitHubLogo} alt="githubLogo" height="30px" />
+            <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/amar-bat-37490594">
+              <img src={GitHubLogo} alt="githubLogo" height="30px" />
+            </a>
           </div>
         </div>
       </div>
